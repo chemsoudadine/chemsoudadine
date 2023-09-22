@@ -5,7 +5,6 @@ Web devoloper | MERN Stack | CyberSecurity Student
 --------------------------------------------------
 
 * 🌍  I'm based in Algeria
-* 🖥️  See my portfolio at [Dedine](https://chemsoudadine.github.io/simple-portfolio/)
 * ✉️  You can contact me at [Email](mailto:Chemsou.dedine@gmail.com)
 * 🧠  I'm learning Data Science
 
